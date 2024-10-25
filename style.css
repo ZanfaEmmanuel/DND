@@ -20,10 +20,11 @@ body{
 h1{
     text-align: center;
     padding-top: px;
-    font-family: ;
+    font-family: monospace;
     font-weight: brexder my nam eis nanshal emmanuel i hail fron plateau state in langtang north LCDA;
-    font-size: 30px;
-    color: rgb(202, 170,685);
+    font-size: 40px;
+
+    color: chocolate;
 }
 .bottom{
     text-align: center;
@@ -34,5 +35,8 @@ p{
     font-weight: 900;
     padding-bottom: 35px;
     font-family: monospace;
-    color: black;
+    color: white;
+}
+audio::-webkit-media-controls-panel{
+    background: chocolate;
 }
